@@ -1,9 +1,7 @@
-#SUBSCRIBED https://youtube.com/@goodmusicflyingaround?si=HSncl1TiJV_5JS9f
-#SUBSCRIBED https://youtube.com/@quocchienn?si=AjlFv3ec4-s-H-dW
 name: "UnLock Pro App"
 desc: "Mở khoá tính năng ứng dụng cao
 cấp "
-icon: https://i.postimg.cc/J43MgCWX/38-CC5335-0-A92-4078-AC0-D-6-FA917-AC8222.webp
+icon: 
 http:
 force-http-engine:
 - "script. hub"
